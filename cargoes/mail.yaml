@@ -8,7 +8,7 @@ longName: mail
 name: Mail
 penaltyLength: 24
 penaltyLowerBound: 6
-price: 4112
+price: 6867
 sprite:
   filename: cargoes/mail.png
   left: 0
