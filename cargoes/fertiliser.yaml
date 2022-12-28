@@ -1,0 +1,17 @@
+abbreviation: FT
+available: true
+classes: 16
+colour: 203
+id: 9
+label: C009
+longName: 'fertiliser '
+name: 'Fertiliser '
+penaltyLength: 233
+penaltyLowerBound: 22
+price: 5058
+sprite:
+  filename: cargoes/fertiliser.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

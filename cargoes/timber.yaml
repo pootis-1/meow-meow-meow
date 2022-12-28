@@ -1,0 +1,17 @@
+abbreviation: TB
+available: true
+classes: 32
+colour: 55
+id: 4
+label: C004
+longName: timber
+name: Timber
+penaltyLength: 233
+penaltyLowerBound: 22
+price: 4811
+sprite:
+  filename: cargoes/timber.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

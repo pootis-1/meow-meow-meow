@@ -1,0 +1,17 @@
+abbreviation: SP
+available: true
+classes: 64
+colour: 174
+id: 8
+label: C008
+longName: sulphur
+name: Sulphur
+penaltyLength: 225
+penaltyLowerBound: 30
+price: 4318
+sprite:
+  filename: cargoes/sulphur.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

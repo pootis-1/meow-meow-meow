@@ -1,0 +1,17 @@
+abbreviation: FS
+available: true
+classes: 32
+colour: 59
+id: 1
+label: C001
+longName: farm supplies
+name: Farm Supplies
+penaltyLength: 30
+penaltyLowerBound: 6
+price: 6991
+sprite:
+  filename: cargoes/farm-supplies.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 10

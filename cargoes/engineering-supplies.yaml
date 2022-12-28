@@ -1,0 +1,17 @@
+abbreviation: ES
+available: true
+classes: 4
+colour: 143
+id: 0
+label: C000
+longName: engineering supplies
+name: Engineering Supplies
+penaltyLength: 32
+penaltyLowerBound: 2
+price: 7073
+sprite:
+  filename: cargoes/engineering-supplies.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 10

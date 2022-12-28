@@ -1,0 +1,17 @@
+abbreviation: PE
+available: true
+classes: 16
+colour: 202
+id: 3
+label: C003
+longName: peat
+name: Peat
+penaltyLength: 225
+penaltyLowerBound: 30
+price: 3660
+sprite:
+  filename: cargoes/peat.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

@@ -1,0 +1,17 @@
+abbreviation: PO
+available: true
+classes: 16
+colour: 47
+id: 12
+label: C012
+longName: pyrite ore
+name: Pyrite Ore
+penaltyLength: 221
+penaltyLowerBound: 34
+price: 3577
+sprite:
+  filename: cargoes/pyrite-ore.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

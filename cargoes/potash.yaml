@@ -1,0 +1,17 @@
+abbreviation: PA
+available: true
+classes: 16
+colour: 251
+id: 7
+label: C007
+longName: potash
+name: Potash
+penaltyLength: 221
+penaltyLowerBound: 34
+price: 4194
+sprite:
+  filename: cargoes/potash.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

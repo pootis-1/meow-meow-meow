@@ -1,0 +1,17 @@
+abbreviation: Pa
+available: true
+classes: 544
+colour: 42
+id: 13
+label: C013
+longName: paper
+name: Paper
+penaltyLength: 221
+penaltyLowerBound: 34
+price: 5880
+sprite:
+  filename: cargoes/paper.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

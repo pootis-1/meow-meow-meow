@@ -1,0 +1,17 @@
+abbreviation: PX
+available: true
+classes: 1
+colour: 152
+id: 17
+label: C017
+longName: passengers
+name: Passengers
+penaltyLength: 22
+penaltyLowerBound: 0
+price: 5634
+sprite:
+  filename: cargoes/passengers.png
+  left: 0
+  top: 0
+unitName: Passengers
+weight: 1

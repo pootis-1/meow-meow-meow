@@ -1,0 +1,17 @@
+abbreviation: ZI
+available: true
+classes: 32
+colour: 37
+id: 14
+label: C014
+longName: zinc
+name: Zinc
+penaltyLength: 241
+penaltyLowerBound: 14
+price: 5181
+sprite:
+  filename: cargoes/zinc.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

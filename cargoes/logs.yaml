@@ -1,0 +1,17 @@
+abbreviation: LO
+available: true
+classes: 32
+colour: 189
+id: 2
+label: C002
+longName: logs
+name: Logs
+penaltyLength: 233
+penaltyLowerBound: 22
+price: 4277
+sprite:
+  filename: cargoes/logs.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

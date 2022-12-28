@@ -1,0 +1,17 @@
+abbreviation: PP
+available: true
+classes: 2064
+colour: 3
+id: 6
+label: C006
+longName: phosphate
+name: Phosphate
+penaltyLength: 231
+penaltyLowerBound: 24
+price: 4071
+sprite:
+  filename: cargoes/phosphate.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

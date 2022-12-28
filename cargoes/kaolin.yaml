@@ -1,0 +1,17 @@
+abbreviation: KO
+available: true
+classes: 16
+colour: 171
+id: 10
+label: C010
+longName: kaolin
+name: Kaolin
+penaltyLength: 221
+penaltyLowerBound: 34
+price: 4112
+sprite:
+  filename: cargoes/kaolin.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

@@ -1,0 +1,17 @@
+abbreviation: AM
+available: true
+classes: 320
+colour: 184
+id: 11
+label: C011
+longName: ammonia
+name: Ammonia
+penaltyLength: 221
+penaltyLowerBound: 34
+price: 4482
+sprite:
+  filename: cargoes/ammonia.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 10
