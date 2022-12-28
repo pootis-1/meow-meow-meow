@@ -1,0 +1,18 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- C001
+cargoProduction:
+- C002
+colour: 1
+fundCostMultiplier: 95
+id: 0
+layout:
+- - - -1
+name: Forrest
+placement: anywhere
+probabilityInGame: 3
+probabilityMapGen: 10
+prospectChance: 75
+tiles: []
+type: primary
