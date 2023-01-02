@@ -1,10 +1,10 @@
 available: true
 callbacks: ''
 cargoAcceptance:
+- C008
 - C011
 - C006
 - C007
-- C008
 cargoProduction:
 - C005
 - C009
