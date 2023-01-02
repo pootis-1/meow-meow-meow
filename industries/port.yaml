@@ -9,8 +9,8 @@ layout:
 - - - -1
 name: Port
 placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
+probabilityInGame: 8
+probabilityMapGen: 2
 prospectChance: 75
 tiles: []
 type: primary
