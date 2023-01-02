@@ -12,6 +12,6 @@ name: Powerplant
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
-prospectChance: 75
+prospectChance: 0
 tiles: []
-type: primary
+type: tertiary
