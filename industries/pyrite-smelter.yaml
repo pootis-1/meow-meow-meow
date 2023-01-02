@@ -1,16 +1,19 @@
-available: false
+available: true
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- C012
+cargoProduction:
+- C008
+- C014
 colour: 1
 fundCostMultiplier: 100
 id: 9
 layout:
 - - - -1
-name: 'New industry #9'
+name: Pyrite Smelter
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
-prospectChance: 75
+prospectChance: 0
 tiles: []
-type: primary
+type: secondary
