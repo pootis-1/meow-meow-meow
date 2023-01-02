@@ -1,0 +1,16 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 7
+layout:
+- - - -1
+name: Paper Mill
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles: []
+type: primary
