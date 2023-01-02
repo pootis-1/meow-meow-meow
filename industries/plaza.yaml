@@ -3,14 +3,14 @@ callbacks: ''
 cargoAcceptance: []
 cargoProduction: []
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 15
 id: 12
 layout:
 - - - -1
 name: Plaza
-placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
+placement: in-town
+probabilityInGame: 24
+probabilityMapGen: 12
 prospectChance: 75
 tiles: []
 type: primary
