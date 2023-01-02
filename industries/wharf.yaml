@@ -1,8 +1,8 @@
 available: true
 callbacks: ''
 cargoAcceptance:
-- C005
 - C003
+- C005
 - C004
 cargoProduction:
 - C000
