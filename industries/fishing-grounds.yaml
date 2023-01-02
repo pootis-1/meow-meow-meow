@@ -1,16 +1,17 @@
-available: false
+available: true
 callbacks: ''
 cargoAcceptance: []
-cargoProduction: []
+cargoProduction:
+- C015
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 87
 id: 15
 layout:
 - - - -1
-name: 'New industry #15'
-placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
+name: Fishing Grounds
+placement: on-water
+probabilityInGame: 14
+probabilityMapGen: 14
 prospectChance: 75
 tiles: []
 type: primary
