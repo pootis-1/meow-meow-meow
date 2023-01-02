@@ -1,0 +1,18 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- C001
+cargoProduction:
+- C016
+colour: 1
+fundCostMultiplier: 87
+id: 14
+layout:
+- - - -1
+name: Herding Co-op
+placement: anywhere
+probabilityInGame: 14
+probabilityMapGen: 14
+prospectChance: 75
+tiles: []
+type: primary
