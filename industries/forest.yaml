@@ -9,7 +9,7 @@ fundCostMultiplier: 95
 id: 0
 layout:
 - - - -1
-name: Forrest
+name: Forest
 placement: anywhere
 probabilityInGame: 3
 probabilityMapGen: 10
