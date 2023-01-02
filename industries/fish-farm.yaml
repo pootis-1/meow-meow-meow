@@ -1,16 +1,18 @@
 available: true
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- C001
+cargoProduction:
+- C016
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 87
 id: 16
 layout:
 - - - -1
 name: Fish Farm
-placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
+placement: on-water
+probabilityInGame: 14
+probabilityMapGen: 14
 prospectChance: 75
 tiles: []
 type: primary
