@@ -7,7 +7,7 @@ cargoAcceptance:
 cargoProduction:
 - C013
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 119
 id: 7
 layout:
 - - - -1
