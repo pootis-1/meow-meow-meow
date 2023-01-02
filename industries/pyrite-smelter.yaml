@@ -6,7 +6,7 @@ cargoProduction:
 - C008
 - C014
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 119
 id: 9
 layout:
 - - - -1
