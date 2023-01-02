@@ -1,9 +1,15 @@
 available: true
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- C009
+- C013
+- C014
+cargoProduction:
+- C000
+- C001
+- C010
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 152
 id: 10
 layout:
 - - - -1
