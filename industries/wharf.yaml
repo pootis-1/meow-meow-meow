@@ -14,7 +14,7 @@ id: 4
 layout:
 - - - -1
 name: Wharf
-placement: anywhere
+placement: on-water
 probabilityInGame: 6
 probabilityMapGen: 2
 prospectChance: 75
