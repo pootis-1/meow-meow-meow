@@ -1,0 +1,22 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- C005
+- C003
+- C004
+cargoProduction:
+- C000
+- C001
+- C007
+colour: 1
+fundCostMultiplier: 152
+id: 4
+layout:
+- - - -1
+name: Wharf
+placement: anywhere
+probabilityInGame: 6
+probabilityMapGen: 2
+prospectChance: 75
+tiles: []
+type: primary
