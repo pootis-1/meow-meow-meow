@@ -1,0 +1,16 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 5
+layout:
+- - - -1
+name: Phosphate Mine
+placement: anywhere
+probabilityInGame: 4
+probabilityMapGen: 7
+prospectChance: 75
+tiles: []
+type: primary
