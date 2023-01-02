@@ -1,16 +1,18 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- C000
+cargoProduction:
+- C012
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 252
 id: 8
 layout:
 - - - -1
 name: Pyrite Mine
 placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
+probabilityInGame: 7
+probabilityMapGen: 4
 prospectChance: 75
 tiles: []
 type: primary
