@@ -4,7 +4,7 @@ cargoAcceptance:
 - C003
 cargoProduction: []
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 15
 id: 2
 layout:
 - - - -1
