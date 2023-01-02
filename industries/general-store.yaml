@@ -1,16 +1,17 @@
 available: true
 callbacks: ''
-cargoAcceptance: []
+cargoAcceptance:
+- C016
 cargoProduction: []
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 15
 id: 11
 layout:
 - - - -1
 name: General Store
 placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
-prospectChance: 75
+probabilityInGame: 24
+probabilityMapGen: 12
+prospectChance: 0
 tiles: []
-type: primary
+type: tertiary
