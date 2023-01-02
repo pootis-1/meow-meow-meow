@@ -8,7 +8,7 @@ fundCostMultiplier: 100
 id: 2
 layout:
 - - - -1
-name: 'New industry #2'
+name: Powerplant
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
