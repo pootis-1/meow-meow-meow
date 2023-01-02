@@ -9,7 +9,7 @@ id: 11
 layout:
 - - - -1
 name: General Store
-placement: anywhere
+placement: in-town
 probabilityInGame: 24
 probabilityMapGen: 12
 prospectChance: 0
