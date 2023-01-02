@@ -1,16 +1,18 @@
 available: true
 callbacks: ''
-cargoAcceptance: []
+cargoAcceptance:
+- C016
+- C017
 cargoProduction: []
 colour: 1
 fundCostMultiplier: 100
 id: 13
 layout:
 - - - -1
-name: 'New industry #13'
+name: Hotel
 placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
-prospectChance: 75
+probabilityInGame: 10
+probabilityMapGen: 15
+prospectChance: 0
 tiles: []
-type: primary
+type: tertiary
