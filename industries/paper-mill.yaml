@@ -1,9 +1,9 @@
-available: false
+available: true
 callbacks: ''
 cargoAcceptance:
-- C008
 - C010
 - C002
+- C008
 cargoProduction:
 - C013
 colour: 1
