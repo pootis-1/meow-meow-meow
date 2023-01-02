@@ -1,4 +1,4 @@
-available: false
+available: true
 callbacks: ''
 cargoAcceptance: []
 cargoProduction: []
@@ -7,10 +7,10 @@ fundCostMultiplier: 100
 id: 1
 layout:
 - - - -1
-name: 'New industry #1'
+name: Peatlands
 placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
+probabilityInGame: 4
+probabilityMapGen: 7
 prospectChance: 75
 tiles: []
 type: primary
